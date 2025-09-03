@@ -12,18 +12,18 @@ Développeur **React.js / Fullstack** passionné par la création d'applications
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=for-the-badge)
-![SEO](https://img.shields.io/badge/SEO-008000?style=for-the-badge)
+![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=for-the-badge&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-008000?style=for-the-badge&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![API REST](https://img.shields.io/badge/API%20REST-6CC24A?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
+![API REST](https://img.shields.io/badge/API%20REST-6CC24A?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ### DevOps & Méthodologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -31,7 +31,7 @@ Développeur **React.js / Fullstack** passionné par la création d'applications
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-F7DF1E?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-F7DF1E?style=for-the-badge&logoColor=black)
 ---
 
 ## 🌟 Projets
