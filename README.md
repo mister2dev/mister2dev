@@ -2,7 +2,7 @@
 
 Développeur **React.js / Fullstack** passionné par la création d'applications modernes, performantes et accessibles.  
 
-💻 **Tech Stack :**  
+## 💻 **Tech Stack :**  
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +31,7 @@ Développeur **React.js / Fullstack** passionné par la création d'applications
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-F7DF1E?style=for-the-badge&logoColor=black)
+
 ---
 
 ## 🌟 Projets
