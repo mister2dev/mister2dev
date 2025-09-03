@@ -10,7 +10,7 @@ Développeur **React.js / Fullstack** passionné par la création d'applications
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=333333&color=333333)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=for-the-badge)
 ![SEO](https://img.shields.io/badge/SEO-008000?style=for-the-badge)
@@ -28,7 +28,7 @@ Développeur **React.js / Fullstack** passionné par la création d'applications
 ### DevOps & Méthodologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-F7DF1E?style=for-the-badge)
